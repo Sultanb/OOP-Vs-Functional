@@ -1,5 +1,5 @@
-// Programming Languages, Dan Grossman, Jan-Mar 2013 
-// Section 8: OOP vs. Functional Decomposition 
+
+// OOP vs. Functional Decomposition 
 
 abstract class Exp {
     abstract Value eval(); // no argument because no environment
