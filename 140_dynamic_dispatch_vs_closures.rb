@@ -1,5 +1,4 @@
-#  Dan Grossman, Programming Languages, Jan-Mar 2013 
-#  Section 7: Dynamic Dispatch Versus Closures 
+
 
 # Ruby methods use late binding: simple example:
 
