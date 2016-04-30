@@ -1,5 +1,5 @@
-(* Dan Grossman, Programming Languages, Jan-Mar 2013 *)
-(* Section 7: Dynamic Dispatch Versus Closures *)
+
+(* Dynamic Dispatch Versus Closures *)
 
 (* ML functions do not use use late binding: simple example: *)
 
