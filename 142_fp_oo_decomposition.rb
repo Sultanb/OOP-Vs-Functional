@@ -1,5 +1,5 @@
-# Programming Languages, Dan Grossman, Jan-Mar 2013 
-# Section 8: OOP vs. Functional Decomposition 
+
+# OOP vs. Functional Decomposition 
 
 # Note: If Exp and Value are empty classes, we do not need them in a
 # dynamically typed language, but they help show the structure and they
